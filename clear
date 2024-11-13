@@ -1,0 +1,26 @@
+[33mcommit 3c3f2a435e1e723fe8d3c45fdfab74dbacf22635[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5f9cf8b d1a259d
+Author: BR1002 <buchkulrohit@gmail.com>
+Date:   Wed Nov 13 10:19:56 2024 +0530
+
+    Merge pull request #1 from BR1002/feature2
+    
+    add new line
+
+[33mcommit d1a259dc02f9ce13ee1df195eeb6b25b2769156b[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m
+Author: BR1002 <buchkulrohit@gmail.com>
+Date:   Wed Nov 13 09:58:13 2024 +0530
+
+    add new line
+
+[33mcommit 5f9cf8b202cbae205b0ef90b486c5f3fcaeb478f[m
+Author: BR1002 <buchkulrohit@gmail.com>
+Date:   Wed Nov 13 09:38:10 2024 +0530
+
+    Add README
+
+[33mcommit 4321a83363ce5042126a196b9ba563f831fb86ca[m
+Author: BR1002 <buchkulrohit@gmail.com>
+Date:   Tue Nov 12 15:27:53 2024 +0530
+
+    initile files
